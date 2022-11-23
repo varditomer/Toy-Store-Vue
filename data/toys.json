@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "t103",
+    "name": "Batman",
+    "price": 10,
+    "inStock": false,
+    "createdAt": 1631031801011,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ]
+  },
+  {
+    "_id": "Zr9vE",
+    "name": "Bulbasaur",
+    "price": 100,
+    "inStock": true,
+    "createdAt": 1669101424039,
+    "labels": [
+      "Doll",
+      "Battery Powered"
+    ],
+    "reviews": [
+      {
+        "content": "best",
+        "user": "some user 1",
+        "id": "r101"
+      },
+      {
+        "content": "better toy",
+        "user": "some user 2",
+        "id": "r102"
+      },
+      {
+        "content": "toy",
+        "user": "some user 3",
+        "id": "r103"
+      }
+    ]
+  },
+  {
+    "_id": "UGRWh",
+    "name": "Charmander",
+    "price": 85,
+    "inStock": true,
+    "createdAt": 1669055513720,
+    "labels": [
+      "Doll",
+      "Battery Powered"
+    ],
+    "reviews": []
+  },
+  {
+    "_id": "t101",
+    "name": "Pikachu",
+    "price": 90,
+    "inStock": true,
+    "createdAt": 1631031801011,
+    "labels": [
+      "Doll",
+      "Battery Powered"
+    ]
+  },
+  {
+    "_id": "t102",
+    "name": "Superman",
+    "price": 110,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1631031801011,
+    "inStock": true
+  }
+]
